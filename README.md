@@ -29,6 +29,8 @@ Live Stream: [Day 2](https://www.youtube.com/watch?v=Ol1FjFR2IMU)
 
 - [Deploying TensorFlow models with tfdeploy](http://rpubs.com/jluraschi/deploying-tensorflow-rstudio-conf), [Javier Luraschi](https://github.com/javierluraschi), [@javierluraschi](https://twitter.com/javierluraschi)
 
+- [Building Spark ML pipelines with sparklyr](https://s3-us-west-2.amazonaws.com/kevinykuo/rsconf-sparklyr/rstudio-conf-2018-sparklyr.html), [Kevin Kuo](https://github.com/kevinykuo), [@kevinykuo](https://twitter.com/kevinykuo)
+
 - [Something old, something new, something borrowed, something blue: Ways to teach data science (and learn it too!)](https://htmlpreview.github.io/?https://raw.githubusercontent.com/ismayc/talks/master/rstudioconf18/slide_deck.html), [Chester Ismay](http://chester.rbind.io/), [@old_man_chester](https://twitter.com/old_man_chester)
 
 - [Drill-down reporting with Shiny](https://github.com/bborgesr/rstudio-conf-2018), [Barbara Borges Ribeiro](https://github.com/bborgesr)
